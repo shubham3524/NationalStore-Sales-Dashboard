@@ -68,7 +68,7 @@ The main goal is to understand **business health** by tracking:
 ## 📂 Power BI File
 
 🔗 Download the `.pbix` file here:  
-`Shubham_AR10_NationalStore_Assignment.pbix` (make sure it's uploaded to your repo)
+`Shubham_AR10_NationalStore_Assignment.pbix` 
 
 ---
 
